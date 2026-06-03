@@ -13,7 +13,7 @@ export const styles = StyleSheet.create({
     maxWidth: 420,
     padding: 24,
     borderRadius: 20,
-    backgroundColor: '#ffffff',
+    backgroundColor: '#fff',
     shadowColor: '#000',
     shadowOpacity: 0.1,
     shadowRadius: 20,
@@ -29,7 +29,7 @@ export const styles = StyleSheet.create({
   count: {
     fontSize: 72,
     fontWeight: '800',
-    color: '#4f46e5',
+    color: '#ea1a16',
   },
   buttons: {
     flexDirection: 'row',
