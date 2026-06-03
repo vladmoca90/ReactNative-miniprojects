@@ -12,7 +12,7 @@ import {
 } from 'react-native';
 import { initialCountries } from './data/initialCountries';
 
-export default function EuropeCountriesComponent() {
+export default function CountriesListComponent() {
   const [countries, setCountries] = useState(initialCountries);
   const [newCountry, setNewCountry] = useState('');
 

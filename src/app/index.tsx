@@ -1,5 +1,5 @@
-import EuropeCountriesComponent from './CountriesListComponent';
+import CountriesListComponent from './CountriesListComponent';
 
 export default function CountriesList() {
-  return <EuropeCountriesComponent />;
+  return <CountriesListComponent />;
 }
