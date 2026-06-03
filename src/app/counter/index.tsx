@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { Pressable, SafeAreaView, Text, View } from 'react-native';
-import { styles } from './styles/counter';
+import { styles } from '../styles/counter';
 
 export default function HomeScreen() {
   const [count, setCount] = useState(0);
