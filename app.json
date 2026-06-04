@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "miniprojects",
-    "slug": "miniprojects",
+    "name": "temp-app",
+    "slug": "temp-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "miniprojects",
+    "scheme": "tempapp",
     "userInterfaceStyle": "automatic",
     "ios": {
       "icon": "./assets/expo.icon"
