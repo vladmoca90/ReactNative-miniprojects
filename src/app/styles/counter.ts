@@ -48,6 +48,15 @@ export const styles = StyleSheet.create({
     fontSize: 32,
     fontWeight: '700',
   },
+  resetButton: {
+    width: 88,
+    backgroundColor: '#e2e8f0',
+  },
+  resetButtonText: {
+    color: '#0f172a',
+    fontSize: 16,
+    fontWeight: '600',
+  },
   hint: {
     marginTop: 8,
     textAlign: 'center',
